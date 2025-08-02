@@ -1,2 +1,2 @@
-Trying to see how it all works using VSCode and GitHub.
-It's all a bit confusing but I think I understand it a bit. The `origin/main` is the branch on GitHub while the `main` is the local branch.
+# Playground
+A repository for me to familiarize myself with Git and GitHub in VS Code. Also learning the basics of web development using [MDN Web Docs](https://developer.mozilla.org/en-US/).
